@@ -18,7 +18,7 @@ https://github.com/Czechu1992/Asta-zadania/tree/master/src/test/java/tests
 
 https://asta.pgs-soft.com/
 
-# In this project I am using: 
+## In this project I am using: 
 
 - IntelliJ IDEA Community Edition 2019.2.4 x64
 - Maven (All dependencies you can find in file pom.xml link: https://github.com/Czechu1992/Asta-zadania/blob/master/pom.xml)
